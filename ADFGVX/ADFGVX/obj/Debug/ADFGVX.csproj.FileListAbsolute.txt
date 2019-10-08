@@ -1,0 +1,7 @@
+C:\Users\Yorik\source\repos\ADFGVX\ADFGVX\bin\Debug\ADFGVX.exe.config
+C:\Users\Yorik\source\repos\ADFGVX\ADFGVX\bin\Debug\ADFGVX.exe
+C:\Users\Yorik\source\repos\ADFGVX\ADFGVX\bin\Debug\ADFGVX.pdb
+C:\Users\Yorik\source\repos\ADFGVX\ADFGVX\obj\Debug\ADFGVX.csprojAssemblyReference.cache
+C:\Users\Yorik\source\repos\ADFGVX\ADFGVX\obj\Debug\ADFGVX.csproj.CoreCompileInputs.cache
+C:\Users\Yorik\source\repos\ADFGVX\ADFGVX\obj\Debug\ADFGVX.exe
+C:\Users\Yorik\source\repos\ADFGVX\ADFGVX\obj\Debug\ADFGVX.pdb
